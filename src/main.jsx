@@ -7,7 +7,7 @@ import './index.css'
 import * as Sentry from "@sentry/react";
 
 Sentry.init({
-  dsn: "https://d674932a77e6d9b9ced1190d70fd4691@o4506876178464768.ingest.us.sentry.io/4506876181151744",
+  dsn: "https://498fc07199b1515e7aeef0b480409efa@o4507934666850304.ingest.de.sentry.io/4507934669406288",
   integrations: [
     Sentry.browserTracingIntegration(),
     Sentry.metrics.metricsAggregatorIntegration(),
